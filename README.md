@@ -1,4 +1,4 @@
-# FitPath 🏋️
+# FitPath - Fitness Tracking App 🏋️ 🏋️
 
 FitPath is a fitness tracking mobile application built using React Native, Expo, TypeScript, and Supabase.
 
